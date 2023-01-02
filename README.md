@@ -1,4 +1,5 @@
-# iBatch
+# iBatch: Batching smart-contract invocations for saving DApp costs
+
 A Ethereum improvement proposal to enable secure batching of smart contract invocations against an untrusted relay server off-chain.
 
 # System model
